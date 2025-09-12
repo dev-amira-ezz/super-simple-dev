@@ -1,0 +1,29 @@
+.price {
+  font-family: Arial;
+  font-size: 45px;
+  margin-bottom: 0;
+}
+
+.gray {
+  font-size: 24px;
+  color: rgb(123, 116, 116);
+  margin-left: 10px;
+}
+
+.discount {
+  font-size: 24px;
+  color: rgb(2, 68, 2);
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+
+.after-hours {
+  font-family: Arial;
+  font-size: 24px;
+  color: rgb(123, 116, 116);
+  margin-top: 14px;
+}
+
+.red {
+  color: rgb(181, 32, 32);
+}

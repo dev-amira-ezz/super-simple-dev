@@ -1,0 +1,13 @@
+button {
+  background-color: black;
+  color: white;
+  width: 120px;
+  height: 48px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+button:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}

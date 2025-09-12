@@ -1,0 +1,30 @@
+.title {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.level {
+  font-family: Verdana;
+  color: rgb(102, 102, 102);
+  font-size: 28px;
+  margin-top: 10px;
+}
+
+.description {
+  font-family: Verdana;
+  font-size: 28px;
+  width: 450px;
+}
+
+button {
+  font-family: Verdana;
+  font-size: 22px;
+  color: white;
+  font-weight: bold;
+  background-color: green;
+  padding: 14px 24px;
+  border: none;
+  border-radius: 10px;
+}
